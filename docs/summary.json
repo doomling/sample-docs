@@ -1,0 +1,18 @@
+{
+   "name": "Mockumentary",
+    "children": [
+      {
+        "name": "a subdirectory of sdk",
+        "children": [
+          {
+            "name": "Code review standards",
+            "slug": "/contributor/mock/getting-started/code-review-standards"
+          },
+          {
+            "name": "Code style guidelines",
+            "slug": "/contributor/mock/getting-started/style-guidelines"
+          }
+        ]
+      }
+   ]
+}
