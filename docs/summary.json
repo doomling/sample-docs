@@ -1,16 +1,16 @@
 {
-   "name": "Mockumentary",
+   "name": "Resources",
     "children": [
       {
-        "name": "a subdirectory of sdk",
+        "name": "Guidelines",
         "children": [
           {
             "name": "Code review standards",
-            "slug": "/contributor/mock/getting-started/code-review-standards"
+            "slug": "/creator/mock/getting-started/code-review-standards"
           },
           {
             "name": "Code style guidelines",
-            "slug": "/contributor/mock/getting-started/style-guidelines"
+            "slug": "/creator/mock/getting-started/style-guidelines"
           }
         ]
       }
