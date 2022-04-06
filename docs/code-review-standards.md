@@ -1,5 +1,5 @@
 ---
-slug: /contributor/mock/getting-started/code-review-standards
+slug: /creator/mock/getting-started/code-review-standards
 title: Code Review Standards
 ---
 
